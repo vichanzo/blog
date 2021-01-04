@@ -1,6 +1,6 @@
 Copyright (C) 2020, 2021 ViChanzo
 
-Licensed - Creative Commons [CC by 4.0](https://creativecommons.org/licenses/by/4.0/)
+Unless otherwise stated content in this blog https://github.com/vichanzo/blog is licensed for free use via the Creative Commons [CC by 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 
 CCAttribution
